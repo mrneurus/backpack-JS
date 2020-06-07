@@ -1,6 +1,6 @@
 # Backpack-JS
 
-## Proyecto con LocalStorage en JS.
+Proyecto con LocalStorage en JS.
 
 ### Deploy in Vercel : https://backpack-js.now.sh 
 
